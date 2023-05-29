@@ -1,5 +1,5 @@
 ---
-title: ✍️ Second Brain
+title: ✍️ Mis Notas
 date: 2022-09-24
 toc: false
 
